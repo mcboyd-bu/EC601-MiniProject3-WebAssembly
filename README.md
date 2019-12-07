@@ -41,15 +41,15 @@ Given the above, WebAssembly does have some ideal use cases:
 
 ## Resources
 
-- [WebAssembly](https://webassembly.org/) https://webassembly.org/  
-- [Awesome WebAssembly Languages](https://github.com/appcypher/awesome-wasm-langs) (https://github.com/appcypher/awesome-wasm-langs)
-- [Hit the Ground Running with WebAssembly](https://medium.com/@robaboukhalil/hit-the-ground-running-with-webassembly-56cf9b2fa35d) (https://medium.com/@robaboukhalil/hit-the-ground-running-with-webassembly-56cf9b2fa35d) 
-- [Blazor: Build client web apps with C#](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor) (https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor) 
-- [Roundup: The AutoCAD Web App at Google I/O 2018](https://blogs.autodesk.com/autocad/autocad-web-app-google-io-2018/) (https://blogs.autodesk.com/autocad/autocad-web-app-google-io-2018/) 
-- [Level up command-line playgrounds with WebAssembly](https://opensource.com/article/19/4/command-line-playgrounds-webassembly) (https://opensource.com/article/19/4/command-line-playgrounds-webassembly) 
-- [Google Labs Announces Squoosh: Image Compression PWA](https://www.infoq.com/news/2018/11/google-squoosh-pwa-webassembly/) (https://www.infoq.com/news/2018/11/google-squoosh-pwa-webassembly/) 
-- [iodide-project/pyodide: The Python scientific stack, compiled to WebAssembly](https://github.com/iodide-project/pyodide) (https://github.com/iodide-project/pyodide) 
-- [Level Up with WebAssembly Book](https://levelupwasm.com/) (https://levelupwasm.com/) 
+- [WebAssembly](https://webassembly.org/)
+- [Awesome WebAssembly Languages](https://github.com/appcypher/awesome-wasm-langs) 
+- [Hit the Ground Running with WebAssembly](https://medium.com/@robaboukhalil/hit-the-ground-running-with-webassembly-56cf9b2fa35d) 
+- [Blazor: Build client web apps with C#](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor) 
+- [Roundup: The AutoCAD Web App at Google I/O 2018](https://blogs.autodesk.com/autocad/autocad-web-app-google-io-2018/) 
+- [Level up command-line playgrounds with WebAssembly](https://opensource.com/article/19/4/command-line-playgrounds-webassembly) 
+- [Google Labs Announces Squoosh: Image Compression PWA](https://www.infoq.com/news/2018/11/google-squoosh-pwa-webassembly/) 
+- [iodide-project/pyodide: The Python scientific stack, compiled to WebAssembly](https://github.com/iodide-project/pyodide) 
+- [Level Up with WebAssembly Book](https://levelupwasm.com/)
 
 <a name="demo"/>
 
