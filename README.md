@@ -41,7 +41,7 @@ Given the above, WebAssembly does have some ideal use cases:
 
 ## Resources
 
-- [WebAssembly](https://webassembly.org/) (https://webassembly.org/)  
+- [WebAssembly](https://webassembly.org/) https://webassembly.org/  
 - [Awesome WebAssembly Languages](https://github.com/appcypher/awesome-wasm-langs) (https://github.com/appcypher/awesome-wasm-langs)
 - [Hit the Ground Running with WebAssembly](https://medium.com/@robaboukhalil/hit-the-ground-running-with-webassembly-56cf9b2fa35d) (https://medium.com/@robaboukhalil/hit-the-ground-running-with-webassembly-56cf9b2fa35d) 
 - [Blazor: Build client web apps with C#](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor) (https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor) 
